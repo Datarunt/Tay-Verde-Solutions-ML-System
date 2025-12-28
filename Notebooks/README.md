@@ -1,5 +1,13 @@
 Purpose: prove ML is bounded, calibrated, and safely reversible
 
+ML is optional; system defaults to rules under uncertainty
+
+- How to reproduce training + evaluation
+- Where calibration plots are
+- How abstention works
+- How fallback works
+- What triggers rollback
+
 Deliverables
 
 - Label logic (two labels)
