@@ -33,3 +33,7 @@ Deliverables
 - Automatic fallback to rules
 - Simulated bad data → safe degradation
 - Lifecycle + rollback doc
+
+---
+
+**Previous:** See how decisions are orchestrated and replayed → [Control-plane](https://github.com/yourusername/risk-control-plane-airflow)
